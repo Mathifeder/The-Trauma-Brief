@@ -5,9 +5,7 @@ The Trauma Brief is an independent student-led medical newsletter focused on **t
 - Comming Soon!
 
 ## Mission
-This newsletter aims to make trauma and emergency medicine
-accessible to students through clear explanations, real-world
-applications, and evidence-based discussion.
+This newsletter aims to make trauma and emergency medicine accessible to students through clear explanations, real-worldapplications, and evidence-based discussion.
 
 ## About the Author
 
