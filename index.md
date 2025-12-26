@@ -1,3 +1,4 @@
+# The Trauma Brief
 
 An independent student-led medical newsletter focused on
 **trauma & emergency medicine.**
