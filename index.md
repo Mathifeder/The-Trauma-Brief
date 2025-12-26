@@ -14,3 +14,8 @@ This newsletter aims to make trauma and emergency medicine accessible to student
 ## Contact
 
 [Contact Info](contact.md)
+
+
+## Github Respository
+
+[The Truama Brief Github Repository](https://github.com/Mathifeder/The-Trauma-Brief)_
