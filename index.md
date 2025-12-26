@@ -13,4 +13,4 @@ This newsletter aims to make trauma and emergency medicine accessible to student
 
 ## Contact
 
-[Contact Info](contact.md]
+[Contact Info](contact.md)
