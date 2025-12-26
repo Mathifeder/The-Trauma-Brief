@@ -14,4 +14,4 @@ applications, and evidence-based discussion.
 
 ## About the Author
 
-Coming Soon!
+[About Me](about.md)
