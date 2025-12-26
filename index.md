@@ -1,8 +1,5 @@
-# The Trauma Brief
 
-An independent student-led medical newsletter focused on
-**trauma & emergency medicine.**
-
+The Trauma Brief is an independent student-led medical newsletter focused on **trauma & emergency medicine.**
 
 ## Latest Issues
 - Comming Soon!
