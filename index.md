@@ -10,3 +10,7 @@ This newsletter aims to make trauma and emergency medicine accessible to student
 ## About the Author
 
 [About Me](about.md)
+
+## Contact
+
+[Contact Info](contact.md]
