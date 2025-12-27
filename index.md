@@ -7,15 +7,6 @@ The Trauma Brief is an independent student-led medical newsletter focused on **t
 ## Mission
 This newsletter aims to make trauma and emergency medicine accessible to students through clear explanations, real-worldapplications, and evidence-based discussion.
 
-## About the Author
+## Links
 
-[About Me](about.md)
-
-## Contact
-
-[Contact Info](contact.md)
-
-
-## Github Respository
-
-[The Truama Brief Github Repository](https://github.com/Mathifeder/The-Trauma-Brief)_
+[About Me](about.md) | [Contact Info](contact.md) | [Disclaimer](Diclaimer.md) | [Github Repository](https://github.com/Mathifeder/The-Trauma-Brief)
