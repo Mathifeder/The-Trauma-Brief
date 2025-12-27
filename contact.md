@@ -1,3 +1,3 @@
-# Contact Information
+# Contact
 
 Contact Information is coming soon!
