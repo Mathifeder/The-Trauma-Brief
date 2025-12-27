@@ -13,12 +13,6 @@ Each issue aims to:
 - Highlight real-world applications of trauma and emergency medicine
 - Encourage early exposure to healthcare systems and preparedness
 
-## Website
+## Links
 
-The live website is hosted using GitHub Pages:
-
-🔗 https://mathifeder.github.io/The-Trauma-Brief/
-
-## DISCLAIMER!
-
-[Disclaimer](Disclaimer.md)
+[Website](https://mathifeder.github.io/The-Trauma-Brief/) | [About](about.md) | [Contact](contact.md) | [Disclaimer](Disclaimer.md) 
