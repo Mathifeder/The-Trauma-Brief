@@ -1,3 +1,3 @@
-# About Me!
+# About
 
-About me is Coming Soon!
+About is Coming Soon!
