@@ -9,4 +9,4 @@ This newsletter aims to make trauma and emergency medicine accessible to student
 
 ## Links
 
-[About Me](about.md) | [Contact Info](contact.md) | [Disclaimer](Diclaimer.md) | [Github Repository](https://github.com/Mathifeder/The-Trauma-Brief)
+[About Me](about.md) | [Contact Info](contact.md) | [Disclaimer](Disclaimer.md) | [Github Repository](https://github.com/Mathifeder/The-Trauma-Brief)
