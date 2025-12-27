@@ -15,4 +15,4 @@ Each issue aims to:
 
 ## Links
 
-[Website](https://mathifeder.github.io/The-Trauma-Brief/) | [About](about.md) | [Contact](contact.md) | [Disclaimer](Disclaimer.md) 
+[Website](https://mathifeder.github.io/The-Trauma-Brief/) | [About](about.md) | [Contact](contact.md) | [Disclaimer](Disclaimer.md) | [Github Repository](https://github.com/Mathifeder/The-Trauma-Brief)
