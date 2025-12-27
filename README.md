@@ -18,3 +18,7 @@ Each issue aims to:
 The live website is hosted using GitHub Pages:
 
 🔗 https://mathifeder.github.io/The-Trauma-Brief/
+
+## DISCLAIMER!
+
+[Disclaimer](disclaimer.md)
