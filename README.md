@@ -21,4 +21,4 @@ The live website is hosted using GitHub Pages:
 
 ## DISCLAIMER!
 
-[Disclaimer](disclaimer.md)
+[Disclaimer](Disclaimer.md)
