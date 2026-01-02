@@ -1,4 +1,3 @@
-# The Trauma Brief
 
 Hi! I’m Marito Funez, and this is *The Trauma Brief* a student-run newsletter all about **trauma and emergency medicine**. I started it to learn more about how doctors and first responders handle emergencies and to share what I’m learning with other students.
 
