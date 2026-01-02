@@ -1,17 +1,15 @@
 # The Trauma Brief
 
-This repository hosts an independent, student-led medical newsletter
-focused on trauma & emergency medicine.
+The Trauma Brief is a student-run medical newsletter focused on trauma care and emergency medicine. It’s a personal learning project where I explore topics related to emergencies, critical care, and how healthcare professionals respond in high-pressure situations.
 
-The project is designed to explore medical concepts through
-research-based writing, structured analysis, and public education.
+This project is meant to help me learn more about medicine while also sharing clear, easy-to-understand explanations with other students who are interested in this field.
 
 ## About the Project
 
-Each issue aims to:
-- Explain medical and emergency response topics in a clear, student-accessible manner
-- Highlight real-world applications of trauma and emergency medicine
-- Encourage early exposure to healthcare systems and preparedness
+Each issue of *The Trauma Brief* is written to:
+- Break down trauma and emergency medicine topics in a way students can understand
+- Connect medical concepts to real-life emergency situations
+- Help students get early exposure to healthcare, emergency response, and preparedness
 
 ## Links
 
