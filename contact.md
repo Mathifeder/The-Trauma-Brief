@@ -10,3 +10,6 @@ Feel free to reach out with questions, feedback, or suggestions about *The Traum
 
 *Note: This project is student-led and for educational purposes.*
 
+## Links
+
+[Website](https://mathifeder.github.io/The-Trauma-Brief/) \| [About](about.md) \| [Contact](contact.md) \| [Disclaimer](Disclaimer.md) \| [GitHub Repository](https://github.com/Mathifeder/The-Trauma-Brief)
