@@ -10,9 +10,9 @@ SoulPancake's youtube video[^1] on this  really illustrates the bystander effect
 | 5 People | 7 Minutes & 25 Seconds |
 | Single Person | 3 Minutes & 19 Seconds |
 
-With the results given in the video, I belive that they speak for themselves & clearly highlights how the bystander effect affects people who want to help but doesn't feel pressure to.
+While the raw table above shows how the group size affects how fast a single person is ready to offer to help, however a closer look at the rate of change will reveal something else. When the table above gets modeled exponentially, the average time for help increases exponentially 22.36% for every new person added to a small group (1-5 people), However, when the group becomes larger (5-10 people), the percentage frops sharply, to a low 1.55% added per person. 
 
-Medical News Today[^4] provides insight direclty from the APA 
+The Pattern above highlights how profounding the bystander effect is, how when adding a single person to a group could delay the help a person desperatly needs.
 
 [^1]: SoulPancake. “The Bystander Effect | The Science of Empathy .” *Youtube*, https://www.youtube.com/watch?v=Wy6eUTLzcU4.
 [^2]: Canada Safety Council. “Don’t Just Stand There - Do Something.” *Canada Safety Council*, https://canadasafetycouncil.org/dont-just-stand-there-do-something/.
